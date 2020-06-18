@@ -49,7 +49,7 @@ public class Controller2D : MonoBehaviour
     }
 
     private void FixedUpdate() {
-        Movement();
+        //Movement();
     }
 
     private void OnTriggerEnter2D(Collider2D other) {
